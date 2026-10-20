@@ -1,2 +1,20 @@
-# proj
-Python experiments accompanying my mathematical essays on Zenn
+## 数理エッセー・ミニ研究の実験コード
+
+Zennで公開している数理エッセーおよびミニ研究で使用したPythonコードを置いています。
+
+
+### ディレクトリ構成
+
+- `essay/`：数理エッセーに付随するコード
+  - `season2/`：第2期
+  - `season3/`：第3期
+- `mini-study/`：ミニ研究に付随するコード
+
+
+各作品のコードは、作品名に対応するフォルダにまとめています。
+
+
+記事本文および考察については、Zennをご覧ください。
+
+
+https://zenn.dev/march26/articles/15b669f5d12638
